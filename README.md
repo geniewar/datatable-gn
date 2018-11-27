@@ -1,9 +1,9 @@
-node-datatable
+datatable-gn
 ==============
 
 A Node.js implementation of a server-side processor for the jQuery DataTables plug-in.
 
-The node-datatable module provides backend query generation and result parsing to support
+The datatable-gn module provides backend query generation and result parsing to support
 [DataTables](https://www.datatables.net/manual/server-side) server-side processing for SQL databases.
 This module does not connect to nor query databases, instead leaving those tasks to the calling application.
 SQL querying has been separated so that the caller can leverage his or her existing module choices for connection pools,
@@ -14,7 +14,7 @@ An incomplete code example:
 
 ```javascript
 var async = require('async'),
-    QueryBuilder = require('datatable');
+    QueryBuilder = require('datatable-gn');
 
 var tableDefinition = {
     sTableName: 'Orgs'
@@ -71,7 +71,7 @@ Construct a QueryBuilder object.
 
 #### Parameters ####
 
-The node-datatable constructor takes an object parameter containing
+The datatable-gn constructor takes an object parameter containing
 the following properties. In the simplest case, only the first
 two options will be necessary.
 
@@ -216,7 +216,7 @@ Example using ```sSelectSql``` and ```sFromSql``` to create a JOIN query:
 }
 ```
 
-### Contributors ###
+### Previous Contributors (Credits to them, I forked datatable-gn) ###
 
 * [Matthew Hasbach](https://github.com/mjhasbach)
 * [Benjamin Flesch](https://github.com/bf)
