@@ -216,7 +216,7 @@ Example using ```sSelectSql``` and ```sFromSql``` to create a JOIN query:
 }
 ```
 
-### Previous Contributors (Credits to them, I forked datatable-gn) ###
+### Previous Contributors (Credits to them, I forked node-datatable) ###
 
 * [Matthew Hasbach](https://github.com/mjhasbach)
 * [Benjamin Flesch](https://github.com/bf)
