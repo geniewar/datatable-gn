@@ -1,9 +1,9 @@
 {
-  "name": "node-datatable-gn",
+  "name": "datatable-gn",
   "version": "2.0.2",
   "description": "Server-side processing for JQuery Datatable plug-in",
   "author": {
-    "name": "Jim Pravetz",
+    "name": "Tim  Katee",
     "email": "jpravetz@epdoc.com"
   },
   "contributors": [
@@ -14,13 +14,13 @@
   ],
   "maintainers": [
     {
-      "name": "jpravetz",
+      "name": "Tim katee",
       "email": "jpravetz@epdoc.com"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/jpravetz/node-datatable.git"
+    "url": "https://github.com/geniewar/datatable-gn.git"
   },
   "keywords": [
     "jquery",
@@ -33,24 +33,24 @@
   "engines": {
     "node": ">= 0.6.x"
   },
-  "gitHead": "75c30ba9f49bead3b9115ef3358787e624df55b1",
+  "gitHead": "a06addbde77739789e597e825c743c9458cead0d",
   "bugs": {
-    "url": "https://github.com/jpravetz/node-datatable/issues"
+    "url": "https://github.com/geniewar/datatable-gn/issues"
   },
-  "homepage": "https://github.com/jpravetz/node-datatable",
-  "_id": "datatable@2.0.2",
+  "homepage": "https://github.com/geniewar/datatable-gn",
+  "_id": "datatable-gn@2.0.2",
   "scripts": {},
   "_shasum": "d0566d3354dc9a5eea6bdacb7807ee0f2e8cab4e",
   "_from": "datatable@latest",
   "_npmVersion": "1.4.14",
   "_npmUser": {
-    "name": "jpravetz",
-    "email": "jimp@epdoc.com"
+    "name": "timkatee",
+    "email": "kate2timo@gmail.com"
   },
   "dist": {
-    "shasum": "d0566d3354dc9a5eea6bdacb7807ee0f2e8cab4e",
-    "tarball": "https://registry.npmjs.org/datatable/-/datatable-2.0.2.tgz"
+    "shasum": "4d016ec78b7114e4762113727b5b00636bbce324",
+    "tarball": "https://registry.npmjs.org/datatable-gn/-/datatable-gn-2.0.2.tgz"
   },
   "directories": {},
-  "_resolved": "https://registry.npmjs.org/datatable/-/datatable-2.0.2.tgz"
+  "_resolved": "https://registry.npmjs.org/datatable-gn/-/datatable-gn-2.0.2.tgz"
 }
